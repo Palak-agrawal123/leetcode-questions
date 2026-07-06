@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## String
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## Counting
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 <!---LeetCode Topics End-->
