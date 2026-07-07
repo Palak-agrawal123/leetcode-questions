@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
 |  |
