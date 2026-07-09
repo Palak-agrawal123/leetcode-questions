@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Math
 |  |
 | ------- |
