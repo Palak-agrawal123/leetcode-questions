@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3945-digit-frequency-score](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
