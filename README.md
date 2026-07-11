@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Sorting
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3945-digit-frequency-score) |
+## Two Pointers
+|  |
+| ------- |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 <!---LeetCode Topics End-->
