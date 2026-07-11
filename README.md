@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3941-password-strength](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Counting
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3941-password-strength](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
