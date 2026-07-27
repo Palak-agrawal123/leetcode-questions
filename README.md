@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Sorting
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Math
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
