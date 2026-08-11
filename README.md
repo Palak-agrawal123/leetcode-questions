@@ -72,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
