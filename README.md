@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Tree
 |  |
 | ------- |
