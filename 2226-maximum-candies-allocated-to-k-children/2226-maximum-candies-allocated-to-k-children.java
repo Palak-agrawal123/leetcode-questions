@@ -8,11 +8,11 @@ class Solution {
         int ans=0;
         while(lo<=hi){
             int mid=lo+(hi-lo)/2;
-            long max_candy=0;
+            long children=0;
             for(int candy :candies){
-                max_candy += candy / mid;
+                children += candy / mid;
             }
-            if(max_candy>=k){
+            if(children>=k){
                     ans=mid;
                     lo=mid+1;
                 }
