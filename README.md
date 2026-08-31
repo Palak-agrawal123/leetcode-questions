@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -132,4 +135,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
