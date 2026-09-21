@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [3941-password-strength](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -172,8 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
