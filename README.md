@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [3941-password-strength](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0078-subsets) |
+| [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [3941-password-strength](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3945-digit-frequency-score) |
