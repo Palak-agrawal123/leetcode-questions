@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
