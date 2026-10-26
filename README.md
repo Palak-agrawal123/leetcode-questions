@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1288-remove-covered-intervals](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0997-find-the-town-judge](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [3941-password-strength](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3945-digit-frequency-score) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1143-longest-common-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
