@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0912-sort-an-array) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [3941-password-strength](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/3941-password-strength) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0997-find-the-town-judge) |
