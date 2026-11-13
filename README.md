@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0938-range-sum-of-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0938-range-sum-of-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0938-range-sum-of-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Palak-agrawal123/leetcode-questions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Stack
 |  |
 | ------- |
